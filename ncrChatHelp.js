@@ -2,7 +2,7 @@
 (function(){
     const template = document.createElement('template');
   
-      template.innerHTML = `<link rel="import" href="./ncr-chat.html">
+      template.innerHTML = `<link rel="import" href="https://raw.githack.com/nilu986/ncrChatHelp/master/ncr-chat.js?token=AE7E7D7BQOMLI22W3PCRJLK54X424">
     <div class="ncrChatSection">
         <a id="liveagent_button_online_5730g000000PCT0" class="chatbutton chatbuttonOnline hideLink"></a>
         <a id="liveagent_button_offline_5730g000000PCT0" class="chatbutton chatbuttonOffline hideLink"></a>
